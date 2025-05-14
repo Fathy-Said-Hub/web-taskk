@@ -1,0 +1,117 @@
+
+.x1{
+    border: solid 2px #023047;
+    transition: width;
+    animation-name: x1;
+    animation-duration: 5s;
+    animation-iteration-count: 1;
+    animation-delay: 2s;
+    color: white;
+    padding: 10px;
+    background-color: #fb5607;
+}
+@keyframes x1{
+    from{width: 0%;}
+    to{width: 100%;}
+    0%{ background-color: #fb5607;}  
+    25%{background-color: #000814;}
+    50%{ background-color: #240046;}  
+    75%{background-color: blue;}
+    100%{ background-color: #008000;}  
+}
+.x2{
+    border: solid 2px #023047;
+    animation-name: x2;
+    animation-duration: 5s;
+    animation-iteration-count: 1;
+    animation-delay: 2s;
+    color: white;
+    padding: 10px;
+    background-color: #fb5607;
+}
+@keyframes x2{
+    from{width: 0%;}
+    to{width: 100%;}
+    0%{ background-color: #fb5607;}  
+    25%{background-color: #000814;}
+    50%{ background-color: #240046;}  
+    75%{background-color: blue;}
+    100%{ background-color: #008000;}  
+  }
+.x3{
+    border: solid 2px #023047;
+    animation-name: x3;
+    animation-duration: 5s;
+    animation-iteration-count: 1;
+    animation-delay: 2s;
+    color: white;
+    padding: 10px;
+    background-color: #fb5607;
+}
+@keyframes x3{
+    from{width: 0%;}
+    to{width: 100%;}
+    0%{ background-color: #fb5607;}  
+    25%{background-color: #000814;}
+    50%{ background-color: #240046;}  
+    75%{background-color: blue;}
+    100%{ background-color: #008000;}  
+  }
+.x4{
+    border: solid 2px #023047;
+    animation-name: x4;
+    animation-duration: 5s;
+    animation-iteration-count: 1;
+    animation-delay: 2s;
+    color: white;
+    padding: 10px;
+    background-color: #fb5607;
+}
+@keyframes x4{
+    from{width: 0%;}
+    to{width: 100%;}
+    0%{ background-color: #fb5607;}  
+    25%{background-color: #000814;}
+    50%{ background-color: #240046;}  
+    75%{background-color: blue;}
+    100%{ background-color: #008000;}  
+  }
+.x5{
+    border: solid 2px #023047;
+    animation-name: x5;
+    animation-duration: 5s;
+    animation-iteration-count: 1;
+    animation-delay: 2s;
+    color: white;
+    padding: 10px;
+    background-color: #fb5607;
+}
+@keyframes x5{
+    from{width: 0%;}
+    to{width: 100%;}
+    0%{ background-color: #fb5607;}  
+    25%{background-color: #000814;}
+    50%{ background-color: #240046;}  
+    75%{background-color: blue;}
+    100%{ background-color: #008000;}  
+  }
+.x6{
+    border: solid 2px #023047;
+    animation-name: x6;
+    animation-duration: 5s;
+    animation-iteration-count: 1;
+    animation-delay: 2s;
+    color: white;
+    padding: 10px;
+    background-color: #fb5607;
+}
+@keyframes x6{
+    from{width: 0%;}
+    to{width: 100%;}
+    0%{ background-color: #fb5607;}  
+    25%{background-color: #000814;}
+    50%{ background-color: #240046;}  
+    75%{background-color: blue;}
+    100%{ background-color: #008000;}  
+  }
+

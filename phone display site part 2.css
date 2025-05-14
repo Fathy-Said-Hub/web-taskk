@@ -1,0 +1,9 @@
+pre{
+    background-image:url("backdround.jpg") ;
+    opacity: 1;
+    color:white;
+}
+h1{
+    color: red;
+    text-align: center;
+}

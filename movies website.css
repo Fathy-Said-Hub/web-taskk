@@ -1,0 +1,41 @@
+body{
+    background-color: #000814;
+    min-height: 100vh;
+}
+.dropdown-toggle{
+
+    width: 100%;
+}
+.dropdown-toggle{
+    margin-bottom: 150px;
+}
+ul{
+    width: 100%;
+    
+}
+.dropdown-item{
+    text-align: center;
+    background-color: #000814;
+    color: white;
+}
+#x{
+    text-align: center;
+    color: blue;
+}
+.dropdown-item:hover{
+    background-color: #fb5607;
+    color:white ;
+}
+.dropdown-item:active{
+    background-color: blue;
+}
+#x1{
+    text-align: center;
+    color: yellow;
+}
+video{
+    width: 100%;
+    
+}
+
+
